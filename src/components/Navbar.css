@@ -1,0 +1,24 @@
+.imageLogo {
+    width: 48px;
+    height: 48px;
+    margin: 0 20px;
+}
+
+.link2 {
+    text-decoration: none;
+    color: #fff;
+    border-bottom: 3px solid #FF2625;
+}
+
+.anchorExercises {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* .stack {
+    direction: row;
+    gap: 40px;
+    font-family: Alegreya;
+    font-size: 24px;
+    align-items: flex-end;
+} */

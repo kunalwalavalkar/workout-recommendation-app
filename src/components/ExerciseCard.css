@@ -1,0 +1,8 @@
+.exerciseCardTypo {
+    margin-left: 21px;
+    color: #000;
+    font-weight: bold; 
+    margin-top: 11px;
+    padding-bottom: 10px;
+    text-transform: capitalize;
+}
